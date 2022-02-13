@@ -1,6 +1,6 @@
 # yk_project
 
-A new Flutter project.
+This is my E-commerce mobile application project.
 
 ## Getting Started
 
